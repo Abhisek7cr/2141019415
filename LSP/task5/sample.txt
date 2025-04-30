@@ -1,5 +1,0 @@
-Error: File not found
-warning: disk almost full
-error: access denied
-INFO: system boot
-Error: connection timed out
